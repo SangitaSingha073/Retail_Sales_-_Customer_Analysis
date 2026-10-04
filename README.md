@@ -41,19 +41,14 @@ Columns: 8
 | Column      | Description                  |
 | ----------- | ---------------------------- |
 | InvoiceNo   | Unique invoice/order number  |
-| --------    | ---------------------------  |
 | StockCode   | Product identifier           |
-| ---------   | ------------------           |
 | Description | Product description          |
-| ----------  | ----------------------       |
 | Quantity    | Number of units purchased    |
-| --------    | ---------------------------  |
 | InvoiceDate | Date and time of transaction |
-| ---------   | ------------------           |
 | UnitPrice   | Price per unit               |
-| ---------   | ------------------           |
+| CustomerID  | Unique ID for each customer  |
 | Country     | Customer's country           |
-| ---------   | ------------------           |
+| ------------------------------------------ |
 
 ## Project Workflow
 
