@@ -48,7 +48,7 @@ Columns: 8
 | UnitPrice   | Price per unit               |
 | CustomerID  | Unique ID for each customer  |
 | Country     | Customer's country           |
-| ------------------------------------------ |
+| ----------- | ---------------------------- |
 
 ## Project Workflow
 
